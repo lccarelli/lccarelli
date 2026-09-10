@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>Staff Software Engineer · Tech Lead · Consultant</b><br/>
-  Backend-heavy full-stack, potenciada con IA (el juicio y la responsabilidad son míos) · Argentina 🇦🇷
+  Backend-heavy full-stack · Argentina 🇦🇷
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Disciplina de siempre: plan antes de código, tests + cobertura mínima, SonarQube, logging estructurado, migraciones versionadas (Flyway). Documentación seria, sin relleno.
+Formas de trabajo: plan antes de código (documentos tecnicos - diseño -> coding), tests + cobertura mínima, SonarQube, logging estructurado, migraciones versionadas (Flyway).
 
 ### Algo que envié a producción
 
