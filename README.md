@@ -59,16 +59,7 @@ Diseño, planifico y construyo software de producción, del esquema de datos a l
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lccarelli&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lccarelli&layout=compact&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lccarelli&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lccarelli&theme=flat&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
 <p align="center"><sub>i want to believe 🛸</sub></p>
