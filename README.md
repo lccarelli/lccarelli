@@ -14,7 +14,7 @@
 
 ---
 
-Diseño, planifico y construyo software de producción, del esquema de datos a la entrega. Backend, mobile y automatizaciones, con la metodología de un equipo serio. Trabajo potenciada con IA: el criterio, la revisión y la responsabilidad siguen siendo míos.
+Diseño, planifico y construyo software de producción. Backend, infra, mobile y automatizaciones.
 
 ### Stack
 
@@ -24,7 +24,6 @@ Diseño, planifico y construyo software de producción, del esquema de datos a l
 ![Spring](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -37,9 +36,7 @@ Diseño, planifico y construyo software de producción, del esquema de datos a l
 
 **[Ashvattha Yoga](https://apps.apple.com/ar/app/ashvattha-yoga/id6761851198)** — app de gestión para un estudio de yoga, en App Store y Google Play con usuarios reales. Backend reactivo en Kotlin/Spring Boot 3 (WebFlux, R2DBC, PostgreSQL), JWT con roles, pagos con Mercado Pago, push con Firebase, tests de integración con Testcontainers y app Flutter.
 
-**[snack-factory](https://lccarelli.github.io)** — mi marca como consultora independiente: *small bites, production-grade*.
-
-### Labs y proyectos en curso
+### Labs y proyectos
 
 - 🧘 [`sadhana`](https://github.com/lccarelli/sadhana) — app Flutter de práctica y estudio de yoga: local-first, bilingüe, sánscrito en devanagari, prácticas modeladas como datos y testeadas en microsegundos.
 - 📨 [`video-eda`](https://github.com/lccarelli/video-eda) — arquitectura orientada a eventos con Kafka, spec-driven, con contract testing y release gates.
@@ -53,7 +50,7 @@ Diseño, planifico y construyo software de producción, del esquema de datos a l
 
 - Ingeniería de software con base técnica y funcional: de UX y producto a backend y arquitectura.
 - Reconocimiento **Inspirational Leadership** (Zurich, 2013).
-- Estudios en la **Universidad Tecnológica Nacional**.
+- Estudio en la **Universidad Tecnológica Nacional**.
 - Inglés profesional completo · español nativo.
 
 ---
